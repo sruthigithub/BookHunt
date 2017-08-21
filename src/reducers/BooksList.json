@@ -1,0 +1,356 @@
+[
+  {
+    "name": "The Very Hungry Caterpillar",
+    "author": "Eric Carle",
+    "isbn": "9780399226908",
+    "imageCoverUrl": "https://books.google.com/books/content?id=oiMwvgAACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Brown Bear, Brown Bear, What Do You See?",
+    "author": "Bill Martin Jr.",
+    "isbn": "9780805047905",
+    "imageCoverUrl": "https://books.google.com/books/content?id=xPLEOdPDQVYC&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Where Is Baby’s Belly Button?",
+    "author": "Karen Katz",
+    "isbn": "9780689835605",
+    "imageCoverUrl": "https://books.google.com/books/content?id=ichrPQAACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Goodnight Moon",
+    "author": "Margaret Wise Brown",
+    "isbn": "9780694003617",
+    "imageCoverUrl": "https://books.google.com/books/content?id=g6RswsuFeroC&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "The Going to Bed Book",
+    "author": "Sandra Boynton",
+    "isbn": "9780671449025",
+    "imageCoverUrl": "https://books.google.com/books/content?id=oe8CAAAACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "A to Z",
+    "author": "Sandra Boynton",
+    "isbn": "9780671493172",
+    "imageCoverUrl": "https://books.google.com/books/content?id=J42ZQgAACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Pat the Bunny",
+    "author": "Dorothy Kunhardt",
+    "isbn": "9780307120007",
+    "imageCoverUrl": "https://books.google.com/books/content?id=zlyHHvgCZpAC&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Munch!: Mini Board Book",
+    "author": "Matthew Van Fleet",
+    "isbn": "9781442494251",
+    "imageCoverUrl": "https://books.google.com/books/content?id=p735lwEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "My First Baby Signs",
+    "author": "Phil Conigliaro and Tae Won Yu",
+    "isbn": "9780761189480",
+    "imageCoverUrl": "https://books.google.com/books/content?id=gF56DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Hop, Hop Bunny: A Follow-Along Book",
+    "author": "Betty Ann Schwartz, Lynn Seresin",
+    "isbn": "9781452124643",
+    "imageCoverUrl": "https://books.google.com/books/content?id=embioAEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Animals in Underwear ABC",
+    "author": "Todd Parr",
+    "isbn": "9780316207362",
+    "imageCoverUrl": "https://books.google.com/books/content?id=3N_EmwEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Baking Day at Grandma’s",
+    "author": "Anika Denise",
+    "isbn": "9780399171574",
+    "imageCoverUrl": "https://books.google.com/books/content?id=EzbIDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Llama Llama YUM YUM YUM! A Scratch-and-Sniff Book",
+    "author": "Anna Dewdney",
+    "isbn": "9780448496382",
+    "imageCoverUrl": "https://books.google.com/books/content?id=MF4YDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Busy Baby: Trucks",
+    "author": "Sarah Gilligham",
+    "isbn": "9781452141879",
+    "imageCoverUrl": "https://books.google.com/books/content?id=gOARrgEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "On My Beach",
+    "author": "Sara Gillingham",
+    "isbn": "9781452106403",
+    "imageCoverUrl": "https://books.google.com/books/content?id=9jS2NAEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Farm Animals Look & Learn",
+    "author": "National Geographic Kids",
+    "isbn": "9781426323072",
+    "imageCoverUrl": "https://books.google.com/books/content?id=g9LYCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Look!",
+    "author": "Edouard Manceau",
+    "isbn": "9781771471022",
+    "imageCoverUrl": "https://books.google.com/books/content?id=TNfboAEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Who's There?",
+    "author": "Alain Crozon",
+    "isbn": "9781452140148",
+    "imageCoverUrl": "https://books.google.com/books/content?id=0GPzrQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "You’re Tutu Cute",
+    "author": "Sandra Magsamen",
+    "isbn": "9780316255172",
+    "imageCoverUrl": "https://books.google.com/books/content?id=PvkGngEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Peekaboo Pals 123",
+    "author": "Becky Davies",
+    "isbn": "9781626865211",
+    "imageCoverUrl": "https://books.google.com/books/content?id=zYv1sgEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Where’s the Ladybug?",
+    "author": "Nosy Crow",
+    "isbn": "9780763693350",
+    "imageCoverUrl": "https://books.google.com/books/content?id=kTpjvgAACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Shapes (Picture This)",
+    "author": "Judith Nouvion",
+    "isbn": "9780544518308",
+    "imageCoverUrl": "https://books.google.com/books/content?id=dopkCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Homes (Picture This)",
+    "author": "Judith Nouvion",
+    "isbn": "9780544512634",
+    "imageCoverUrl": "https://books.google.com/books/content?id=m4pkCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Blue Boat",
+    "author": "Kersten Hamilton",
+    "isbn": "9781101998533",
+    "imageCoverUrl": "https://books.google.com/books/content?id=_G43jgEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "A Surprise for Tiny Mouse",
+    "author": "Petr Horacek",
+    "isbn": "9780763679675",
+    "imageCoverUrl": "https://books.google.com/books/content?id=Agv8rQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Bizzy Bear: Knights' Castle",
+    "author": "Nosy Crow",
+    "isbn": "9780763676025",
+    "imageCoverUrl": "https://books.google.com/books/content?id=07euoAEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Take a Look, Bunny",
+    "author": "Liesbet Slegers",
+    "isbn": "9781605371931",
+    "imageCoverUrl": "https://books.google.com/books/content?id=lsJ7oAEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Peekaboo",
+    "author": "Giuliano Ferri",
+    "isbn": "9789888240937",
+    "imageCoverUrl": "https://books.google.com/books/content?id=odrmoQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Lines Everywhere ",
+    "author": "Jimi Lee",
+    "isbn": "9789888240951",
+    "imageCoverUrl": "https://books.google.com/books/content?id=8ZyyoQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "I Love You, Snugglesaurus",
+    "author": "Sandra Magsamen",
+    "isbn": "9780316255189",
+    "imageCoverUrl": "https://books.google.com/books/content?id=AKJJngEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Squares",
+    "author": "Yusuke Yonezu",
+    "isbn": "9789888240685",
+    "imageCoverUrl": "https://books.google.com/books/content?id=ntXxoQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Alphablock",
+    "author": "Christopher Franceschelli",
+    "isbn": "9781419709364",
+    "imageCoverUrl": "https://books.google.com/books/content?id=6LkllAEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Cars Go",
+    "author": "Steve Light",
+    "isbn": "9781452150673",
+    "imageCoverUrl": "https://books.google.com/books/content?id=EeEUswEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Opposites (Touch Think Learn)",
+    "author": "Xavier Deneux",
+    "isbn": "9781452117256",
+    "imageCoverUrl": "https://books.google.com/books/content?id=HPfEmQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "A Tree for All Seasons",
+    "author": "Maryse Guittet",
+    "isbn": "9782848019451",
+    "imageCoverUrl": "https://books.google.com/books/content?id=mIzOngEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "You Are My Baby: Ocean",
+    "author": "Lorena Siminovich",
+    "isbn": "9781452126500",
+    "imageCoverUrl": "https://books.google.com/books/content?id=oXGengEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "JoJos First Word Book",
+    "author": "Xavier Deneusc",
+    "isbn": "9782848019437",
+    "imageCoverUrl": "https://books.google.com/books/content?id=oZ49nwEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Boo Bunny Has Lost Her Teddy",
+    "author": "Nosy Crow",
+    "isbn": "9780763672744",
+    "imageCoverUrl": "https://books.google.com/books/content?id=-n7lnQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Bedtime for Chickies ",
+    "author": "Janee Trasler",
+    "isbn": "9780062274687",
+    "imageCoverUrl": "https://books.google.com/books/content?id=vtFpnQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Pottytime for Chickies",
+    "author": "Janee Trasler",
+    "isbn": "9780062274694",
+    "imageCoverUrl": "https://books.google.com/books/content?id=YtIYnQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "I Say, You Say Feelings!",
+    "author": "Tad Carpenter",
+    "isbn": "9780316200745",
+    "imageCoverUrl": "https://books.google.com/books/content?id=xVP0mwEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "I Say, You Say COLORS!",
+    "author": "Tad Carpenter",
+    "isbn": "9780316200721",
+    "imageCoverUrl": "https://books.google.com/books/content?id=EmT8mwEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Little White Rabbit",
+    "author": "Kevin Henkes",
+    "isbn": "9780062314093",
+    "imageCoverUrl": "https://books.google.com/books/content?id=RdI3nQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Cowy Cow",
+    "author": "Chris Raschka",
+    "isbn": "9781419710551",
+    "imageCoverUrl": "https://books.google.com/books/content?id=h19OngEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "We’re Going to the Farmers’ Market",
+    "author": "Stefan Page",
+    "isbn": "9781452118345",
+    "imageCoverUrl": "https://books.google.com/books/content?id=saDhngEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Edgar Gets Ready for Bed",
+    "author": "Jennifer Adams",
+    "isbn": "9781423641759",
+    "imageCoverUrl": "https://books.google.com/books/content?id=XU9PrgEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Firefighter (Pretend & Play)",
+    "author": "Salina Yoon",
+    "isbn": "9781607106340",
+    "imageCoverUrl": "https://books.google.com/books/content?id=5tI1mQEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "What’s in Your Purse?",
+    "author": "Abigail Samoun",
+    "isbn": "9781452117010",
+    "imageCoverUrl": "https://books.google.com/books/content?id=-_AnngEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Who Did It?",
+    "author": "Ohara Hale",
+    "isbn": "9781576876817",
+    "imageCoverUrl": "https://books.google.com/books/content?id=04OBngEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "My Birdie",
+    "author": "Jessie Ford",
+    "isbn": "9781419702068",
+    "imageCoverUrl": "https://books.google.com/books/content?id=117LygAACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Humpty Dumpty",
+    "author": "Charles Reasoner",
+    "isbn": "9781479516902",
+    "imageCoverUrl": "https://books.google.com/books/content?id=9rupAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Big and Small (Odd One Out)",
+    "author": "Guido van Genechten",
+    "isbn": "9781605371498",
+    "imageCoverUrl": "https://books.google.com/books/content?id=p9DNMgEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Cook in a Book: Pancakes!",
+    "author": "Lotta Niemien",
+    "isbn": "9780714872834",
+    "imageCoverUrl": "https://books.google.com/books/content?id=KCrBjwEACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "First 100 Words",
+    "author": "Roger Priddy",
+    "isbn": "9780312510787",
+    "imageCoverUrl": "https://books.google.com/books/content?id=b39IAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "First 100 Animals",
+    "author": "Roger Priddy",
+    "isbn": "9780312510794",
+    "imageCoverUrl": "https://books.google.com/books/content?id=YNBIAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "The Going-To-Bed Book",
+    "author": "Sandra Boynton",
+    "isbn": "9780671449025",
+    "imageCoverUrl": "https://books.google.com/books/content?id=oe8CAAAACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Chicka Chicka Boom Boom",
+    "author": "Bill Martin Jr., John Archambault",
+    "isbn": "9781442450707",
+    "imageCoverUrl": "https://books.google.com/books/content?id=BIEHuAAACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Press Here",
+    "author": "Herve Tullet",
+    "isbn": "9780811879545",
+    "imageCoverUrl": "https://books.google.com/books/content?id=IkTDcQAACAAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  },
+  {
+    "name": "Numbers Colors Shapes (First 100)",
+    "author": "Roger Priddy",
+    "isbn": "9780312510817",
+    "imageCoverUrl": "https://books.google.com/books/content?id=P0RrAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+  }
+]
