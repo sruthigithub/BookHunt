@@ -3,7 +3,8 @@ import _ from 'lodash';
 
 
 import {
-    BOOKS_FETCH_SUCCESS
+    BOOKS_FETCH_SUCCESS,
+    CATEGORY_FETCH_SUCCESS
 } from './types';
 
 export const booksFetch = () => {
@@ -11,9 +12,16 @@ export const booksFetch = () => {
         
         firebase.database().ref(`/books/`)
         .once('value', snapshot => {
-            console.log("reached once");
             dispatch({ type: BOOKS_FETCH_SUCCESS, payload: snapshot.val() })
         });
     }
 };
 
+export const categoryFetch = () => {
+    return (dispatch) => {
+        firebase.database().ref('/category/')
+        .once('value', snapshot => {
+            dispatch({ type: CATEGORY_FETCH_SUCCESS, payload: snapshot.val() })
+        })
+    }
+}

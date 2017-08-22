@@ -5,31 +5,36 @@ import { connect } from 'react-redux';
 import { View, ListView } from 'react-native';
 import SearchBar from 'react-native-search-bar';
 
-import { booksFetch } from '../actions';
+import { booksFetch, categoryFetch } from '../actions';
 
 import ListItem from './ListItem';
 
 class BooksList extends Component {
 
     componentWillMount() {
-        this.setState({animating: true, searchTerm: ""});
+        this.setState({animating: true});
+
         this.props.booksFetch();
+        this.props.categoryFetch();
+
         this.createDataSource(this.props);
+        //console.log(this.props);
     }
 
     componentWillReceiveProps(nextProps){
         console.log("next props", nextProps);
+        console.log(this.props)
         this.createDataSource(nextProps);
         this.setState({animating: false});
     }
 
     createDataSource({ books }) {
-        console.log("datasource", books);
+        //console.log("datasource", books);
         const ds = new ListView.DataSource({
             rowHasChanged: (r1, r2) => r1 != r2
         });
-
-        this.dataSource = ds.cloneWithRows(books);
+        
+        this.setState({dataSource: ds.cloneWithRows(books)});
     }
 
     renderRow(book) {
@@ -40,12 +45,10 @@ class BooksList extends Component {
         //console.log("router", this);
 
     }
-    search(){
-        var searchText = this.state.searchTerm;
-        var filteredBookList = this.props.books.filter(book => ~book.name.indexOf(searchText))
-
-
-        //this.dataSource = filteredBookList;
+    search(text){
+        var re = new RegExp(text, 'gi');
+        var filteredBookList = this.props.books.filter(book => ~book.name.search(re));
+        this.createDataSource({books: filteredBookList});
     }
     
     render() {
@@ -64,14 +67,15 @@ class BooksList extends Component {
                     returnKeyType='search'
                     lightTheme
                     placeholder='Search...'
-                    onChangeText={(text) => this.setState({searchTerm: text})}
-                    onSearchButtonPress={this.search.bind(this)}
+                    onChangeText={(text) => this.search(text)}
+                    hideBackground={true}
+                    textFieldBackgroundColor="#fff"
                 />
                 <ListView
                     enableEmptySections
                     initialListSize={20}
                     pageSize={20}
-                    dataSource={this.dataSource}
+                    dataSource={this.state.dataSource}
                     renderRow={this.renderRow}
                 />
                 </View>
@@ -80,14 +84,21 @@ class BooksList extends Component {
     }
 }
 
-const mapStateToProps = state => {
-
+const mapStateToProps = (state, ownProps) => {
+    console.log("mapStateToProps", state);
+        console.log("ownProps", ownProps);
     const books = _.map(state.books, (val, uid) => {
 
         return { ...val, uid };
     });
-    //console.log("mapsStateToProps", books);
-    return { books };
+
+    const categories = _.map(state.category, (val, uid) => {
+        
+                return { ...val, uid };
+            });
+    
+    console.log("mapStateToProps - return", { books, categories });
+    return { books, categories };
 };
 
 const styles = {
@@ -105,4 +116,4 @@ const styles = {
     }
 };
 // connect returns a function thats immediatly get called with LibraryList
-export default connect(mapStateToProps, { booksFetch })(BooksList);
+export default connect(mapStateToProps, { booksFetch, categoryFetch })(BooksList);
